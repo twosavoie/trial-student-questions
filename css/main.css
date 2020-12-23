@@ -1,0 +1,52 @@
+.mainColumn { 
+	float: left; 
+	} 
+	
+	.largeBox { 
+	width: 32em; 
+	height: 10em; 
+	background: green; 
+	margin-bottom: 1em; 
+	
+	} 
+	
+	.smallBox1 { 
+	width: 10em; 
+	height: 10em; 
+	background: grey; 
+	float: left; 
+	margin-right: 1em; 
+	} 
+	
+	.smallBox2 { 
+	width: 10em; 
+	height: 10em; 
+	background: grey; 
+	float: left; 
+	margin-right: 1em; 
+	} 
+	
+	.smallBox3 { 
+	width: 10em; 
+	height: 10em; 
+	background: grey; 
+	float: left; 
+	} 
+
+	.clear-the-float {
+		clear: both;
+	}
+	
+	.para1 { 
+	display: inline-block; 
+	width: 10em; 
+	margin-top: 1em; 
+	float: left; 
+	} 
+	
+	.para2 { 
+	display: inline-block; 
+	width: 10em; 
+	margin-top: 1em; 
+	float: left; 
+	}
